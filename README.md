@@ -1,3 +1,4 @@
+<img src="banner.png" alt="Banner" style="width:100%;"/>
 # dark-side-of-discounts-ecommerce-analysis
 Exploring whether deep discounts hurt long-term revenue using RFM segmentation, LTV analysis, and cohort modeling.
 
